@@ -65,7 +65,7 @@ body {
 }
 
 .product {
-	background-color: rgb(255, 245, 245);
+	background-color: rgb(59, 197, 117);
 	border: 1px solid #1b4e1f;
 	border-radius: 10%;
 	padding: 10px 60px;
@@ -117,7 +117,7 @@ body {
 	flex: 1;
 	min-width: 300px;
 	margin-top: 3%;
-	background-color: #fff9e6;
+	background-color: #3f20af;
 	border: 2px solid #193d10;
 	border-radius: 20px;
 	padding: 10px 20px;
